@@ -14,7 +14,7 @@ This is an example JavaScript application that demonstrates wallet switching and
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/wallet-switch-chain.git
+git clone https://github.com/syt4sh1/wallet-switch-chain.git
 cd wallet-switch-chain
 ```
 2. Install dependencies:
